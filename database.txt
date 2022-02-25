@@ -1,0 +1,5 @@
+ 2 Bread 30 1
+ 3 Butter 60 3
+ 4 Eggs 170 5
+ 1 Juice 50 2
+ 5 Waterbottle 20 0
